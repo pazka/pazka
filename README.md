@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alexandre Weisser (Pazka)
+### Hi there 👋, I'm Alexandre Weisser (pazka)
 
 - 🧩 I'm a curious, tryhard, developer who compulsively starts projects to fill the needs of the people I care about.
 - 🪀 I like to discover new tech by making joke projects that go way too far.
